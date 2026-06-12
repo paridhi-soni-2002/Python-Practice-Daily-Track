@@ -86,7 +86,16 @@
 # print(number)
 
 # largest=max(number) 
-# print(f"largest in a list is :{largest}") 
+# print(f"largest in a list is :{largest}")
+
+# largest = 0
+# for i in range(1,6):
+#     num=int(input(f"enter your {i} number: "))
+#     if num>largest:
+#         largest=num
+        
+# print("largest value is: ",largest)
+
 
 
 

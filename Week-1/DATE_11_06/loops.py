@@ -49,3 +49,20 @@
 # **
 # ***
 # ****
+
+
+#square pattern
+
+# for i in range(5):
+#     print("*" * 5)
+    
+#right triangle
+
+# for i in range(5):
+#     print("*" * i)
+
+#inverted triangle
+
+# for i in range(5,0,-1):
+#     print("*" * i)
+    
