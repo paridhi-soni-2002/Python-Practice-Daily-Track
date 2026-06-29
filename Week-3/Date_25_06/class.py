@@ -8,7 +8,7 @@
 # print(x)
 
 # #LEGB
-# # local,global,enclosing scopes
+# # local,global,enclosing scopes,builtin scope
 
 # a=15#global scope
 # def outer():
