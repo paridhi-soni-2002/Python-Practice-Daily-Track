@@ -1,5 +1,5 @@
 #oops:object oriented programming: it is programming style
-# where we represent real world thigd as object
+# where we represent real world things as object
 
 #for example student object each object has data (Attributes),functions(methods)
 #class=blue print used to creat object
