@@ -1,7 +1,7 @@
 #Encapsulation= it is the process of wrapping data attributes amd methods functions into single unit class
 #it also help protected sara by controlling how it is accessed or modified.
 #benefits= data security , data hiding,better control,validation possible
-#Access mof=difiers: public(): anywhere we can access
+#Access mofdifiers: public(): anywhere we can access
 #protected(_name): inside class and subclass
 #private(__name): inside the same class
 
